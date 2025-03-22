@@ -1,0 +1,9 @@
+planet_name;number_of_stars;orbital_period;orbit_semi_major_axis;planet_radius;Inclination;eccentricity;insolation_flux;planet_temperature;star_temperature;star_radius;star_mass
+Mercury;1;87.9;.387;;;;;440;5780;1;1
+Venus;1;224.7;.723;;;;;;5780;1;1
+Earth;1;365.2;1;;;;;288;5780;1;1
+Mars;1;687;1.52;;;;;208;5780;1;1
+Jupiter;1;4331;5.2;;;;;163;5780;1;1
+Saturn;1;10747;9.58;;;;;133;5780;1;1
+Uranus;1;30589;19.21;;;;;78;5780;1;1
+Neptune;1;90560;30.11;;;;;72;5780;1;1
