@@ -1,0 +1,9 @@
+planet_name,number_of_stars,orbital_period,orbit_semi_major_axis,planet_radius,Inclination,eccentricity,insolation_flux,planet_temperature,star_temperature,star_radius,star_mass,Predicted Temperature
+Mercury,1,87.9,0.387,0.3,,,,440,5780,1,1,414.94254
+Venus,1,224.7,0.723,0.9,,,,415,5780,1,1,309.295
+Earth,1,365.2,1.0,1.0,,,,288,5780,1,1,267.0259
+Mars,1,687.0,1.52,0.5,,,,208,5780,1,1,194.35083
+Jupiter,1,4331.0,5.2,11.0,,,,163,5780,1,1,-559.6438
+Saturn,1,10747.0,9.58,9.0,,,,133,5780,1,1,-1899.7676
+Uranus,1,30589.0,19.21,4.0,,,,78,5780,1,1,-5297.9233
+Neptune,1,90560.0,30.11,3.9,,,,72,5780,1,1,4047.6936
